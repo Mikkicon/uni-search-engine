@@ -1,0 +1,2800 @@
+a 10 0 1 2 3 4 5 6 7 8 9 
+aaron 5 1 2 3 4 6 
+aarons 1 3 
+abhorred 1 5 
+abidan 1 2 
+abide 3 3 5 8 
+abihail 2 2 6 
+abihu 2 2 3 
+abijah 1 6 
+able 6 2 3 5 7 8 9 
+abner 1 5 
+abode 2 5 8 
+abolished 1 9 
+abominable 3 3 6 9 
+abomination 2 0 3 
+abominations 2 0 9 
+about 9 0 2 3 4 5 6 7 8 9 
+above 7 0 2 3 5 6 8 9 
+abraham 1 8 
+abroad 2 3 7 
+absalom 1 6 
+abundance 2 5 6 
+abundantly 1 1 
+accepted 2 3 5 
+accomplish 1 9 
+accomplished 1 9 
+according 7 0 2 3 5 7 8 9 
+accounted 1 8 
+acknowledge 1 0 
+actions 1 5 
+acts 2 6 7 
+adamant 1 9 
+add 2 3 8 
+added 1 8 
+adoraim 1 6 
+adriel 1 5 
+adullam 1 6 
+adultery 2 0 8 
+adversaries 1 5 
+adversary 1 5 
+adversity 1 6 
+afar 2 1 7 
+afflict 1 1 
+afflicted 1 1 
+affliction 3 0 5 7 
+afraid 6 0 1 5 7 8 9 
+after 10 0 1 2 3 4 5 6 7 8 9 
+afterward 1 4 
+again 9 0 1 3 4 5 6 7 8 9 
+against 8 0 1 3 5 6 7 8 9 
+age 1 5 
+ah 2 0 9 
+ahab 1 7 
+ahaziah 1 7 
+ahiezer 1 2 
+ahira 1 2 
+aijalon 1 6 
+air 2 5 8 
+alarm 2 0 6 
+alas 2 7 9 
+alike 1 8 
+alive 5 1 3 5 8 9 
+all 10 0 1 2 3 4 5 6 7 8 9 
+almighty 1 9 
+almond 1 0 
+alone 2 1 8 
+along 2 1 8 
+already 1 1 
+also 10 0 1 2 3 4 5 6 7 8 9 
+altar 5 2 3 5 6 9 
+altars 3 2 6 9 
+although 1 9 
+altogether 1 6 
+always 1 8 
+am 8 0 1 2 3 5 7 8 9 
+amazed 1 1 
+amaziah 1 7 
+amber 1 9 
+ambushment 1 6 
+amends 1 3 
+amittai 1 7 
+ammihud 1 2 
+amminadab 1 2 
+ammishaddai 1 2 
+ammon 1 8 
+ammonites 1 8 
+ammonitess 1 6 
+amon 1 0 
+among 9 0 1 2 3 5 6 7 8 9 
+amorite 1 8 
+amorites 1 8 
+amram 1 2 
+amramites 1 2 
+an 10 0 1 2 3 4 5 6 7 8 9 
+anakims 1 8 
+ancient 1 9 
+ancients 1 9 
+and 10 0 1 2 3 4 5 6 7 8 9 
+angel 2 1 7 
+anger 3 0 8 9 
+angry 2 3 8 
+anguish 1 8 
+anointed 3 2 3 5 
+anointing 2 2 3 
+another 6 0 3 5 7 8 9 
+answer 1 5 
+answered 4 1 5 7 8 
+any 9 0 1 2 3 4 5 7 8 9 
+aphek 1 5 
+apiece 2 2 9 
+appear 2 3 5 
+appearance 1 9 
+appearances 1 9 
+appeared 5 1 3 5 7 9 
+appeareth 2 3 8 
+appertaineth 1 3 
+appoint 1 2 
+appointed 2 5 9 
+appointment 1 2 
+approach 1 2 
+ar 1 8 
+arabian 1 0 
+are 10 0 1 2 3 4 5 6 7 8 9 
+argob 1 8 
+arise 3 0 7 9 
+ark 4 0 1 2 5 
+arm 4 1 5 8 9 
+armed 2 5 8 
+armies 2 2 5 
+armour 2 5 7 
+army 3 1 5 6 
+arnon 1 8 
+aroer 1 8 
+arose 4 1 5 7 9 
+array 2 5 6 
+arrogancy 1 5 
+arrows 2 5 9 
+art 6 0 5 6 7 8 9 
+as 10 0 1 2 3 4 5 6 7 8 9 
+asa 1 6 
+ascribed 1 5 
+ashamed 2 0 7 
+ashdothpisgah 1 8 
+asher 2 1 2 
+ashes 2 2 3 
+aside 2 7 8 
+ask 2 7 8 
+asked 2 5 7 
+asketh 1 8 
+ass 3 0 7 8 
+assayed 2 5 8 
+assemble 1 0 
+assembled 2 2 5 
+assembly 4 1 3 5 8 
+asses 1 7 
+assyria 2 0 7 
+astaroth 1 8 
+astonied 1 9 
+astonished 2 0 9 
+astonishment 1 9 
+asunder 2 3 7 
+at 9 0 1 2 3 5 6 7 8 9 
+atonement 3 2 3 4 
+attai 1 6 
+attire 1 0 
+aul 1 8 
+avenged 1 5 
+avims 1 8 
+avoided 1 5 
+away 10 0 1 2 3 4 5 6 7 8 9 
+azariah 2 6 7 
+azekah 1 6 
+azur 1 9 
+azzah 1 8 
+baal 2 0 7 
+baalim 1 0 
+baalpeor 1 8 
+baalzebub 1 7 
+baalzephon 1 1 
+babe 1 1 
+back 4 0 1 6 7 
+backbone 1 3 
+backs 1 9 
+backsliding 1 0 
+backslidings 1 0 
+backward 1 0 
+badgers 1 2 
+bag 1 5 
+bake 1 9 
+baken 1 3 
+balances 1 9 
+bald 2 3 7 
+baldness 1 9 
+bands 2 0 9 
+bank 2 7 8 
+bar 1 2 
+barbers 1 9 
+bare 5 1 5 6 7 8 
+barley 1 9 
+barren 2 5 7 
+bars 3 2 6 8 
+bashan 1 8 
+bashanhavothjair 1 8 
+basket 1 3 
+basons 1 2 
+bat 1 3 
+bathe 1 4 
+battering 1 9 
+battle 5 5 6 7 8 9 
+battles 1 5 
+be 10 0 1 2 3 4 5 6 7 8 9 
+beans 1 9 
+bear 5 2 3 5 8 9 
+beard 3 3 5 9 
+beareth 2 3 4 
+bears 1 7 
+beast 4 2 3 7 8 
+beasts 4 3 5 7 9 
+beat 1 7 
+beaten 1 3 
+beauty 1 9 
+became 2 1 5 
+because 10 0 1 2 3 4 5 6 7 8 9 
+become 2 0 1 
+bed 3 4 5 7 
+bedstead 1 8 
+been 8 0 1 3 5 6 7 8 9 
+beersheba 1 5 
+bees 1 8 
+beetle 1 3 
+befallen 1 3 
+before 10 0 1 2 3 4 5 6 7 8 9 
+beforetime 1 8 
+began 5 5 6 7 8 9 
+begat 1 6 
+beget 1 8 
+beggar 1 5 
+begin 3 5 8 9 
+begun 1 8 
+behaved 1 5 
+beheld 1 9 
+behind 4 1 2 6 9 
+behold 10 0 1 2 3 4 5 6 7 8 9 
+being 5 0 2 5 6 8 
+belial 2 5 6 
+believe 1 8 
+believed 1 1 
+belly 3 0 3 9 
+belong 1 2 
+belonged 1 7 
+belongeth 1 7 
+benaiah 1 9 
+beneath 1 8 
+benjamin 3 1 2 6 
+bereave 2 0 9 
+beryl 1 9 
+beside 5 1 3 5 8 9 
+besides 1 3 
+besieged 1 9 
+besought 2 7 8 
+bethel 2 6 7 
+bethlehem 2 5 6 
+bethlehemite 1 5 
+bethpeor 1 8 
+bethshemesh 1 7 
+bethzur 1 6 
+better 2 1 5 
+between 6 1 3 5 6 8 9 
+bewail 1 3 
+beware 1 8 
+beyond 1 8 
+bezer 1 8 
+bid 1 7 
+bill 1 0 
+bind 2 8 9 
+bird 1 4 
+birds 1 4 
+bitter 3 0 1 7 
+bitterness 2 5 9 
+black 1 3 
+blast 1 1 
+blemish 2 3 8 
+bless 2 0 8 
+blessed 4 3 5 8 9 
+blesseth 1 8 
+blind 1 8 
+blood 7 0 3 4 5 7 8 9 
+bloody 1 9 
+blossomed 1 9 
+blot 1 7 
+blow 2 0 1 
+blown 1 9 
+blue 1 2 
+boards 1 2 
+bodies 1 9 
+body 1 9 
+boil 1 3 
+bolster 1 5 
+bondage 2 1 8 
+bondman 1 8 
+bondmen 2 7 8 
+bones 1 9 
+bonnets 1 3 
+book 7 1 2 3 6 7 8 9 
+border 2 7 8 
+born 4 1 2 3 5 
+borne 1 0 
+borrow 2 7 8 
+both 6 2 3 4 5 7 9 
+bottle 1 5 
+bottom 2 1 3 
+bound 1 3 
+bow 3 5 8 9 
+bowed 1 7 
+bowels 2 0 9 
+bowls 1 2 
+bows 2 5 6 
+brake 2 6 7 
+branch 1 9 
+brasen 3 0 3 9 
+brass 3 5 6 9 
+bread 6 1 2 3 5 7 9 
+breadth 1 8 
+break 5 0 3 4 7 9 
+breast 1 3 
+breastplate 1 3 
+breasts 1 3 
+breeches 1 3 
+brethren 4 1 3 6 8 
+brick 1 1 
+bride 1 0 
+briers 1 9 
+bright 3 3 4 9 
+brightness 1 9 
+bring 9 0 1 2 3 5 6 7 8 9 
+bringeth 2 3 5 
+brink 2 1 8 
+broken 6 0 2 3 4 5 9 
+brook 2 5 8 
+brother 1 8 
+brought 8 0 1 3 5 6 7 8 9 
+budded 1 9 
+build 4 0 5 6 9 
+buildedst 1 8 
+built 3 1 6 7 
+bullock 5 2 3 5 6 8 
+bullocks 2 3 5 
+bulrushes 1 1 
+burden 2 2 8 
+burdens 2 1 2 
+buried 2 6 7 
+burn 6 0 3 5 6 8 9 
+burned 3 0 3 8 
+burneth 1 3 
+burning 2 3 9 
+burnished 1 9 
+burnt 6 2 3 4 5 6 7 
+burst 1 0 
+business 2 5 6 
+but 10 0 1 2 3 4 5 6 7 8 9 
+buy 1 8 
+buyer 1 9 
+buzi 1 9 
+by 9 0 1 2 3 5 6 7 8 9 
+cake 2 2 3 
+cakes 2 3 9 
+caldron 2 5 9 
+caleb 1 8 
+calf 1 3 
+calfs 1 9 
+call 5 0 1 5 7 8 
+called 7 1 2 3 5 7 8 9 
+calledst 1 5 
+calves 1 6 
+came 8 0 1 3 5 6 7 8 9 
+camel 1 3 
+camels 1 6 
+camest 2 0 8 
+camp 6 1 2 3 5 7 9 
+camps 1 2 
+can 3 0 5 8 
+canaan 2 1 4 
+canaanites 1 8 
+candlestick 3 2 6 7 
+cannot 2 0 5 
+canst 2 0 9 
+caphtor 1 8 
+caphtorims 1 8 
+captain 4 2 5 6 7 
+captains 4 1 6 7 8 
+captive 1 0 
+captives 1 9 
+captivity 1 9 
+carcase 1 3 
+carcases 3 3 5 9 
+care 2 7 9 
+careful 1 7 
+carefully 1 8 
+carmel 1 7 
+carried 3 3 6 9 
+carry 4 1 3 4 7 
+carrying 1 0 
+cast 8 1 3 4 5 6 7 8 9 
+cattle 5 2 3 6 7 8 
+caught 1 5 
+caul 1 3 
+cause 5 0 4 5 8 9 
+caused 5 0 1 5 6 9 
+causes 2 0 8 
+cease 2 8 9 
+ceased 1 5 
+cedar 2 4 7 
+censer 2 3 9 
+censers 1 2 
+certain 3 1 5 7 
+certainly 2 3 5 
+chain 1 9 
+chaldeans 1 9 
+chamber 2 6 7 
+chambers 1 9 
+chameleon 1 3 
+champion 1 5 
+change 1 0 
+changed 3 0 3 9 
+charge 5 2 3 6 8 9 
+charged 2 1 8 
+chariot 3 1 6 7 
+chariots 3 0 1 6 
+chased 1 8 
+chasing 1 5 
+chebar 1 9 
+cherub 1 9 
+cherubims 2 5 9 
+chew 1 3 
+cheweth 1 3 
+chief 3 2 6 8 
+chiefest 1 5 
+child 5 0 1 3 5 7 
+children 10 0 1 2 3 4 5 6 7 8 9 
+childrens 2 0 8 
+childs 1 1 
+chinnereth 1 8 
+chittim 1 0 
+choice 1 7 
+choose 2 5 8 
+chose 2 5 8 
+chosen 2 1 6 
+chronicles 1 7 
+circumcise 1 0 
+circumcised 1 3 
+cisterns 1 0 
+cities 7 0 1 5 6 7 8 9 
+city 7 0 4 5 6 7 8 9 
+clean 3 3 4 8 
+cleanse 2 0 4 
+cleansed 2 3 4 
+cleansing 2 3 4 
+cleave 3 3 8 9 
+cleaved 1 7 
+cloth 2 2 5 
+clothed 2 3 9 
+clothes 4 3 4 5 7 
+cloud 3 1 8 9 
+clouds 2 0 8 
+clovenfooted 1 3 
+coals 1 9 
+coast 2 7 8 
+coasts 3 6 7 8 
+coat 2 3 5 
+coats 1 3 
+colour 1 9 
+come 10 0 1 2 3 4 5 6 7 8 9 
+comest 2 5 8 
+cometh 6 2 3 5 6 7 9 
+comforted 1 9 
+command 4 0 3 4 8 
+commanded 7 1 2 3 5 6 8 9 
+commandment 3 2 6 8 
+commandments 4 1 2 3 8 
+commit 3 3 8 9 
+committed 5 0 2 3 6 9 
+committeth 1 9 
+common 1 3 
+commune 1 5 
+company 1 5 
+compass 1 7 
+compassed 1 8 
+compassion 1 1 
+complaint 1 5 
+conceived 4 1 3 5 7 
+concerning 3 3 5 6 
+concubines 1 6 
+coney 1 3 
+confess 1 3 
+confidences 1 0 
+confirm 1 7 
+confound 1 0 
+confounded 1 0 
+confusion 1 0 
+congealed 1 1 
+congregation 5 1 2 3 4 5 
+consecrate 2 3 6 
+consecrated 1 2 
+consecration 1 3 
+consecrations 1 3 
+consider 3 0 3 8 
+conspiracy 1 7 
+conspired 1 7 
+constrained 1 7 
+consume 4 5 7 8 9 
+consumed 5 1 3 7 8 9 
+consuming 1 8 
+contend 1 8 
+content 1 3 
+continual 1 2 
+continually 3 5 6 7 
+continue 1 3 
+continued 1 5 
+copulation 1 4 
+cords 1 2 
+cormorant 1 3 
+corn 1 3 
+corner 1 7 
+corners 1 9 
+cornets 1 6 
+correct 1 0 
+correction 1 0 
+corrupt 1 8 
+could 4 1 5 6 7 
+couldest 1 0 
+counsel 1 9 
+count 1 5 
+countenance 1 5 
+countries 2 6 9 
+country 3 0 7 8 
+courage 1 6 
+court 3 2 3 9 
+courts 1 9 
+covenant 5 0 3 5 6 8 
+cover 3 2 3 9 
+covered 5 1 2 3 5 9 
+covereth 2 0 3 
+covering 1 2 
+covers 1 2 
+covet 1 8 
+cows 1 9 
+created 1 8 
+creature 2 3 9 
+creatures 1 9 
+creditor 2 7 8 
+creep 1 3 
+creepeth 2 3 8 
+creeping 2 3 9 
+cried 5 0 1 6 7 9 
+criest 1 1 
+crimes 1 9 
+crop 1 3 
+crouch 1 5 
+crown 2 0 3 
+cruse 1 7 
+cry 4 0 6 8 9 
+crystal 1 9 
+cubit 1 8 
+cubits 2 7 8 
+cuckow 1 3 
+cud 1 3 
+cumbrance 1 8 
+curious 1 3 
+cursed 2 5 7 
+curtain 1 2 
+curtains 2 0 2 
+custody 1 2 
+custom 1 5 
+cut 5 2 3 5 6 9 
+daily 2 1 2 
+damascus 1 7 
+dan 4 0 1 2 5 
+dances 1 1 
+dancing 1 5 
+dark 2 3 9 
+darkness 4 0 1 5 8 
+dashed 1 1 
+daubed 1 1 
+daughter 7 0 1 3 5 6 7 8 
+daughters 5 0 1 3 5 6 
+david 3 5 6 7 
+davids 1 5 
+day 10 0 1 2 3 4 5 6 7 8 9 
+days 9 0 1 3 4 5 6 7 8 9 
+dead 6 1 3 5 7 8 9 
+deal 3 1 5 9 
+dealings 1 5 
+dealt 3 0 1 6 
+death 5 0 2 5 6 7 
+debt 1 7 
+deceitfully 1 3 
+deceived 3 0 3 5 
+declare 2 0 8 
+declared 2 2 8 
+declareth 1 0 
+deeper 1 3 
+defence 1 6 
+defenced 1 0 
+defied 1 5 
+defile 2 3 9 
+defiled 3 0 3 9 
+degenerate 1 0 
+delight 1 5 
+delighted 1 5 
+deliver 5 0 5 7 8 9 
+deliverance 1 6 
+delivered 6 1 3 5 6 8 9 
+depart 1 8 
+departed 4 5 7 8 9 
+departeth 1 0 
+departing 1 1 
+depths 1 1 
+deserts 2 0 9 
+desire 1 8 
+desired 1 6 
+desireth 1 5 
+desolate 2 0 9 
+desolation 1 9 
+despise 1 5 
+despised 1 2 
+destroy 5 0 1 6 8 9 
+destroyed 2 6 8 
+destroyer 1 0 
+destroying 3 0 8 9 
+destruction 2 0 9 
+determined 1 5 
+detestable 1 9 
+deuel 1 2 
+deuteronomy 1 8 
+devils 1 6 
+devise 1 9 
+devour 2 0 9 
+devoured 2 0 3 
+diblath 1 9 
+did 8 1 2 3 5 6 7 8 9 
+didst 3 1 5 8 
+die 7 1 2 3 5 7 8 9 
+died 5 1 2 3 6 7 
+dieth 2 3 9 
+difference 1 3 
+dig 1 9 
+digged 2 8 9 
+diggedst 1 8 
+diligently 4 0 1 3 8 
+dim 1 5 
+diminish 2 8 9 
+dip 2 3 4 
+dipped 1 3 
+discouraged 1 8 
+disdained 1 5 
+disease 1 7 
+diseases 1 1 
+dishes 1 2 
+dismayed 2 0 9 
+dispersed 1 6 
+displeased 1 5 
+distress 1 8 
+ditches 1 7 
+divide 3 1 3 9 
+divided 3 1 7 8 
+divideth 1 3 
+divorce 1 0 
+dizahab 1 8 
+do 9 0 1 2 3 5 6 7 8 9 
+doest 1 8 
+doeth 2 2 3 
+dog 1 5 
+doing 1 1 
+doings 1 0 
+done 8 0 1 3 5 6 7 8 9 
+door 7 2 3 4 5 7 8 9 
+doors 1 5 
+dost 1 9 
+doth 5 0 3 7 8 9 
+double 2 7 8 
+dough 1 2 
+doves 1 9 
+down 10 0 1 2 3 4 5 6 7 8 9 
+downward 1 9 
+dowry 1 5 
+drave 1 1 
+draw 2 1 9 
+draweth 1 9 
+dread 2 1 8 
+dreadful 1 9 
+dressed 1 3 
+drew 5 1 3 5 6 7 
+dried 1 3 
+drink 8 0 1 2 3 5 7 8 9 
+drive 3 7 8 9 
+driven 1 8 
+dromedary 1 0 
+drought 1 0 
+drove 1 1 
+drowned 1 1 
+drunk 2 3 5 
+drunken 1 5 
+dry 4 0 1 3 7 
+due 1 3 
+dukes 1 1 
+dumb 1 9 
+dung 2 3 9 
+dunghill 1 5 
+dust 2 4 5 
+dwell 4 1 7 8 9 
+dwellest 1 9 
+dwelleth 1 5 
+dwellingplaces 1 9 
+dwellings 1 3 
+dwelt 7 0 1 5 6 7 8 9 
+each 3 2 7 9 
+eagle 2 3 9 
+eagles 1 0 
+ear 3 1 3 8 
+early 2 5 7 
+earnestly 1 5 
+ears 5 0 3 5 8 9 
+earth 6 1 3 4 5 8 9 
+earthen 2 3 4 
+east 4 1 2 3 9 
+eastward 3 2 8 9 
+eat 8 0 1 2 3 5 7 8 9 
+eaten 4 3 5 8 9 
+eatest 1 5 
+eateth 2 3 4 
+ebenezer 1 5 
+edom 2 1 7 
+edrei 1 8 
+egypt 7 0 1 2 3 5 6 8 
+egyptian 1 1 
+egyptians 1 1 
+eight 3 2 6 8 
+eighteen 1 6 
+eighteenth 2 6 7 
+eighth 3 3 4 7 
+either 2 3 5 
+ekron 2 5 7 
+elath 2 7 8 
+elder 1 5 
+elders 4 3 5 8 9 
+eldest 2 2 7 
+eleazar 2 2 3 
+eleven 1 8 
+eleventh 2 0 8 
+eli 1 5 
+eliab 2 2 6 
+eliasaph 1 2 
+elihu 1 5 
+elijah 1 7 
+elim 1 1 
+elis 1 5 
+elisha 1 7 
+elishama 1 2 
+elizaphan 1 2 
+elizur 1 2 
+elkanah 1 5 
+else 1 8 
+elzaphan 1 3 
+embrace 1 7 
+emims 1 8 
+empty 4 4 5 7 8 
+enan 1 2 
+encamp 2 1 2 
+encamped 1 1 
+encamping 1 1 
+encourage 1 8 
+end 6 0 2 3 5 8 9 
+ended 1 9 
+ends 1 5 
+enemies 4 0 1 5 8 
+enemy 2 1 5 
+enlarged 1 5 
+enough 1 8 
+enquire 2 5 7 
+ensign 1 2 
+entangled 1 1 
+enter 2 2 9 
+entered 3 0 6 9 
+entereth 1 2 
+entering 2 0 7 
+entrance 1 6 
+entry 1 9 
+ephah 2 3 5 
+ephod 2 3 5 
+ephraim 5 0 2 5 6 7 
+ephrain 1 6 
+ephrathite 1 5 
+ere 2 1 5 
+erred 2 2 3 
+esau 1 8 
+escape 1 9 
+escaped 1 5 
+eshcol 1 8 
+espousals 1 0 
+establish 1 5 
+established 3 1 5 6 
+esteemed 1 5 
+estimation 1 3 
+etam 1 6 
+ethiopian 1 6 
+ethiopians 1 6 
+euphrates 1 8 
+even 10 0 1 2 3 4 5 6 7 8 9 
+evening 2 1 6 
+ever 6 0 1 3 5 6 8 
+every 10 0 1 2 3 4 5 6 7 8 9 
+evil 7 0 3 5 6 7 8 9 
+evils 2 0 9 
+exact 1 8 
+exacted 1 7 
+exalt 2 1 5 
+exalted 1 5 
+exceeding 4 1 5 6 9 
+excellency 1 1 
+except 1 7 
+execute 1 9 
+executing 1 6 
+exodus 1 1 
+expired 1 5 
+expressed 1 2 
+expressly 2 5 9 
+eye 2 8 9 
+eyed 1 5 
+eyes 7 0 1 3 5 6 8 9 
+ezekiel 1 9 
+ezel 1 5 
+eziongaber 1 8 
+face 6 0 1 5 7 8 9 
+faces 3 0 3 9 
+fail 1 5 
+fair 1 5 
+faithful 1 5 
+fall 6 0 1 3 5 7 9 
+falleth 2 1 3 
+fallow 1 0 
+false 1 8 
+falsely 1 3 
+families 2 0 2 
+family 3 0 2 5 
+famine 1 9 
+fan 1 0 
+far 4 0 2 5 9 
+fat 2 3 5 
+father 6 0 1 2 5 7 8 
+fatherless 1 8 
+fathers 8 0 1 2 5 6 7 8 9 
+favour 1 5 
+fear 6 0 1 6 7 8 9 
+feared 3 0 1 5 
+fearful 1 1 
+feathers 1 3 
+feeble 2 5 9 
+feed 1 0 
+feet 4 3 5 8 9 
+feignedly 1 0 
+fell 5 3 5 6 7 9 
+felled 1 7 
+fellow 1 1 
+fellowship 1 3 
+female 2 3 8 
+fenced 3 6 7 8 
+ferret 1 3 
+fetch 2 1 5 
+fetched 2 6 7 
+few 3 7 8 9 
+field 5 0 1 5 8 9 
+fields 1 4 
+fierce 1 0 
+fifteen 1 7 
+fifteenth 3 1 6 7 
+fifth 5 0 3 6 8 9 
+fifties 2 7 8 
+fifty 2 2 7 
+fight 6 0 1 5 6 7 8 
+fighteth 1 1 
+figure 1 8 
+fill 1 9 
+filled 3 1 7 9 
+filledst 1 8 
+find 3 0 5 8 
+findest 1 9 
+fine 1 3 
+finger 1 3 
+fins 1 3 
+fire 8 0 1 2 3 5 7 8 9 
+firmament 1 9 
+first 6 2 3 5 6 8 9 
+firstborn 1 2 
+firstfruits 2 0 3 
+firstling 1 8 
+firstlings 1 2 
+fish 1 8 
+fitches 1 9 
+five 4 2 5 6 9 
+flags 1 1 
+flanks 1 3 
+flash 1 9 
+flay 1 3 
+fled 4 1 5 6 7 
+flee 3 1 6 8 
+fleeing 1 8 
+flesh 6 1 3 4 5 8 9 
+fleshhook 1 5 
+fleshhooks 1 2 
+flieth 1 8 
+flint 1 9 
+flock 4 1 3 5 8 
+flocks 2 0 3 
+floods 1 1 
+floor 1 8 
+flour 2 3 5 
+flower 1 5 
+floweth 1 8 
+flying 1 3 
+follow 1 1 
+followed 3 7 8 9 
+food 1 3 
+foot 4 0 3 8 9 
+for 10 0 1 2 3 4 5 6 7 8 9 
+forasmuch 1 7 
+forbad 1 8 
+forbear 1 9 
+forbeareth 1 9 
+forbid 1 5 
+forbidden 2 3 8 
+force 1 5 
+forefront 1 3 
+forehead 3 0 5 9 
+foreheads 1 9 
+foreigner 1 8 
+foreskin 1 3 
+foreskins 2 0 5 
+forget 3 0 5 8 
+forgiven 2 2 3 
+forgotten 1 0 
+form 1 9 
+formed 1 0 
+former 2 5 7 
+forsake 2 6 8 
+forsaken 3 0 6 9 
+forsook 1 6 
+fort 1 9 
+forth 9 0 1 2 3 4 5 7 8 9 
+fortieth 1 8 
+fortified 1 6 
+forty 5 2 6 7 8 9 
+forward 5 1 2 5 7 9 
+fought 2 5 7 
+found 6 0 1 3 5 6 7 
+fountain 2 0 3 
+four 7 2 3 5 6 7 8 9 
+fourscore 2 2 6 
+fourteen 2 2 6 
+fourth 4 2 7 8 9 
+fowl 2 3 8 
+fowls 2 3 5 
+frankincense 1 3 
+free 1 8 
+fret 1 5 
+fretting 1 4 
+fried 1 3 
+from 10 0 1 2 3 4 5 6 7 8 9 
+frontlets 1 8 
+fruit 2 0 8 
+fruitful 1 1 
+fryingpan 1 3 
+fulfilled 2 3 9 
+full 7 0 1 3 5 7 8 9 
+furious 1 9 
+furnace 1 8 
+furnish 1 8 
+furthermore 2 8 9 
+fury 2 0 9 
+gad 2 1 2 
+gaddest 1 0 
+gadi 1 7 
+gadites 1 8 
+gamaliel 1 2 
+garment 2 3 4 
+garments 2 3 5 
+gate 3 2 7 9 
+gates 4 0 5 6 8 
+gath 2 5 6 
+gather 4 0 1 3 8 
+gathered 5 0 1 3 6 7 
+gathhepher 1 7 
+gave 6 1 2 5 6 7 8 
+gehazi 1 7 
+genealogies 1 6 
+generation 4 0 1 7 8 
+generations 2 2 3 
+gentiles 2 0 9 
+gerahs 1 2 
+gerar 1 6 
+gershon 1 2 
+gershonites 1 2 
+geshuri 1 8 
+get 5 1 6 7 8 9 
+ghost 1 0 
+giants 1 8 
+gibeah 1 6 
+gideoni 1 2 
+gier 1 3 
+gilead 1 8 
+gilgal 1 7 
+gird 2 0 9 
+girded 3 3 5 8 
+girdle 3 3 5 7 
+girdles 1 3 
+girt 1 7 
+give 9 0 1 2 3 4 5 7 8 9 
+given 7 0 2 3 5 6 8 9 
+givest 2 8 9 
+giveth 1 8 
+glorified 1 3 
+glorious 1 1 
+gloriously 1 1 
+glory 7 0 1 3 5 7 8 9 
+go 10 0 1 2 3 4 5 6 7 8 9 
+goat 2 2 3 
+goats 3 2 3 5 
+god 8 0 1 3 5 6 7 8 9 
+gods 5 0 1 5 6 8 
+goeth 4 3 4 8 9 
+going 3 3 6 7 
+golan 1 8 
+gold 3 6 7 9 
+golden 3 2 3 6 
+gone 3 0 7 9 
+good 5 3 5 6 7 8 
+goodly 3 0 1 8 
+goodness 1 0 
+gotten 2 1 3 
+grace 1 5 
+grant 2 5 6 
+grasshopper 1 3 
+grave 1 5 
+graven 1 8 
+graves 1 1 
+great 8 0 1 3 5 6 7 8 9 
+greater 2 8 9 
+greatly 2 0 8 
+greatness 2 1 8 
+green 3 0 3 9 
+greenish 1 4 
+grew 2 1 5 
+grief 1 5 
+grieve 1 5 
+grieved 3 1 5 8 
+ground 5 0 1 5 7 8 
+groves 1 6 
+grown 2 1 7 
+guard 1 6 
+guide 1 0 
+guided 1 1 
+guiltless 1 8 
+guilty 1 3 
+habitation 2 1 5 
+habitations 1 9 
+had 9 0 1 2 3 5 6 7 8 9 
+hadoram 1 6 
+hadst 1 0 
+hair 3 3 5 9 
+hairs 1 3 
+hairy 1 7 
+half 2 3 8 
+hallowed 2 2 3 
+hamath 1 7 
+hand 9 0 1 2 3 5 6 7 8 9 
+handful 1 3 
+handle 1 0 
+handmaid 2 5 7 
+hands 9 0 1 3 4 5 6 7 8 9 
+hanging 1 2 
+hangings 1 2 
+hannah 1 5 
+hard 5 1 3 7 8 9 
+harden 2 1 8 
+hardened 2 1 8 
+harder 1 9 
+hardhearted 1 9 
+hare 1 3 
+harlot 1 0 
+harm 1 3 
+hart 1 8 
+hast 6 0 1 5 7 8 9 
+hasted 1 5 
+hasten 1 0 
+hate 1 8 
+hated 1 8 
+hath 10 0 1 2 3 4 5 6 7 8 9 
+have 9 0 1 2 3 5 6 7 8 9 
+having 2 3 6 
+hawk 1 3 
+hazerim 1 8 
+hazeroth 1 8 
+he 10 0 1 2 3 4 5 6 7 8 9 
+head 6 0 2 3 5 7 9 
+heads 4 2 3 8 9 
+heal 1 0 
+healed 3 3 4 7 
+healeth 1 1 
+heap 1 1 
+hear 8 0 1 3 5 6 7 8 9 
+heard 8 0 1 3 5 6 7 8 9 
+heardest 1 8 
+heareth 3 1 5 9 
+hearing 1 9 
+hearken 3 1 8 9 
+hearkened 2 5 9 
+heart 7 0 1 5 6 7 8 9 
+hearts 2 1 6 
+heat 1 9 
+heathen 2 8 9 
+heave 2 2 3 
+heaven 5 1 5 7 8 9 
+heavens 2 0 9 
+heavily 1 1 
+hebrew 2 1 8 
+hebrews 2 1 5 
+hebron 2 2 6 
+hebronites 1 2 
+heed 2 5 8 
+held 1 3 
+helmet 1 5 
+helon 1 2 
+help 1 6 
+helped 1 1 
+helper 1 7 
+henceforward 1 2 
+her 7 0 1 3 5 6 7 9 
+herd 2 3 8 
+herds 1 0 
+here 4 5 7 8 9 
+heritage 1 0 
+hermon 1 8 
+heron 1 3 
+herself 2 0 1 
+heshbon 1 8 
+hewed 1 0 
+hid 3 1 3 5 
+hidden 1 3 
+hide 3 1 3 5 
+high 6 0 1 6 7 8 9 
+higher 1 9 
+hilkiah 1 0 
+hill 4 0 7 8 9 
+hills 3 0 8 9 
+him 10 0 1 2 3 4 5 6 7 8 9 
+himself 5 3 4 5 6 9 
+hin 1 9 
+hindmost 1 2 
+hired 2 5 8 
+his 10 0 1 2 3 4 5 6 7 8 9 
+hither 1 7 
+hitherto 1 5 
+hold 4 0 1 7 8 
+holds 1 6 
+hole 1 9 
+holiness 2 0 1 
+hollow 1 4 
+holy 6 1 2 3 5 7 9 
+home 2 5 7 
+homeborn 1 0 
+honey 3 3 8 9 
+honour 3 1 5 8 
+honoured 1 1 
+honourest 1 5 
+hoof 1 3 
+hope 1 0 
+hoped 1 0 
+hophni 1 5 
+horeb 1 8 
+horims 1 8 
+hormah 1 8 
+horn 1 5 
+horns 1 3 
+horribly 1 0 
+horror 1 9 
+horse 1 1 
+horsemen 3 1 6 7 
+horses 3 0 1 7 
+host 7 1 2 5 6 7 8 9 
+hostages 1 7 
+hosts 4 0 2 5 7 
+hot 1 3 
+house 10 0 1 2 3 4 5 6 7 8 9 
+household 2 1 8 
+houses 4 1 2 8 9 
+how 5 0 1 5 7 8 
+howbeit 1 7 
+howl 1 0 
+humbled 1 6 
+hundred 6 1 2 5 6 7 9 
+hundreds 1 8 
+hunger 1 1 
+hungry 1 5 
+hurt 2 5 7 
+husband 3 0 5 7 
+hyssop 1 4 
+i 10 0 1 2 3 4 5 6 7 8 9 
+iddo 1 6 
+idols 2 6 9 
+if 10 0 1 2 3 4 5 6 7 8 9 
+ignorance 2 2 3 
+ignorantly 1 2 
+ill 1 8 
+image 4 5 7 8 9 
+imagery 1 9 
+images 2 6 9 
+imagination 1 0 
+impudent 1 9 
+imputed 1 3 
+in 10 0 1 2 3 4 5 6 7 8 9 
+incense 7 0 2 3 5 6 7 9 
+increase 4 0 5 8 9 
+increased 2 0 1 
+indeed 4 3 5 7 8 
+indignation 1 7 
+infirmity 1 3 
+inflammation 1 3 
+infolding 1 9 
+inhabitant 1 0 
+inhabitants 3 0 1 6 
+inherit 2 5 8 
+inheritance 3 0 1 8 
+iniquity 6 0 2 3 5 8 9 
+inkhorn 1 9 
+inner 1 9 
+innocent 2 0 5 
+innocents 1 0 
+instead 3 2 6 7 
+instruct 1 8 
+instruction 1 9 
+instruments 2 2 5 
+intendest 1 1 
+into 10 0 1 2 3 4 5 6 7 8 9 
+intreat 1 5 
+inwards 1 3 
+iron 3 0 8 9 
+is 10 0 1 2 3 4 5 6 7 8 9 
+isaac 1 8 
+isles 1 0 
+israel 10 0 1 2 3 4 5 6 7 8 9 
+israelites 2 5 7 
+israels 2 2 7 
+issachar 2 1 2 
+issue 2 3 4 
+it 10 0 1 2 3 4 5 6 7 8 9 
+ithamar 2 2 3 
+itself 2 3 9 
+izehar 1 2 
+izeharites 1 2 
+jaazaniah 1 9 
+jabbok 1 8 
+jabesh 1 7 
+jacob 3 0 1 8 
+jahaz 1 8 
+jair 1 8 
+javelin 1 5 
+jealous 1 8 
+jealousy 1 9 
+jecholiah 1 7 
+jehoahaz 1 7 
+jehoash 1 7 
+jehoiachins 1 9 
+jehoiakim 1 0 
+jehoram 1 7 
+jehoshaphat 1 7 
+jehu 1 7 
+jephunneh 1 8 
+jeremiah 1 0 
+jericho 1 7 
+jerimoth 1 6 
+jeroboam 2 6 7 
+jeroham 1 5 
+jerusalem 5 0 5 6 7 9 
+jeshnah 1 6 
+jesse 2 5 6 
+jeush 1 6 
+joash 1 7 
+join 1 1 
+joined 2 5 9 
+jonah 1 7 
+jonathan 1 5 
+jordan 2 7 8 
+joseph 2 1 2 
+joshua 1 8 
+josiah 1 0 
+jotham 1 7 
+journey 3 1 7 8 
+joy 1 5 
+judah 7 0 1 2 5 6 7 9 
+judge 4 1 5 8 9 
+judges 1 8 
+judging 1 7 
+judgment 2 0 8 
+judgments 3 0 8 9 
+justified 1 0 
+kadesh 1 8 
+kadeshbarnea 1 8 
+kedar 1 0 
+kedemoth 1 8 
+keep 7 0 1 2 3 5 6 8 
+keepers 1 0 
+keeping 1 2 
+kept 3 5 6 9 
+kettle 1 5 
+kick 1 5 
+kid 2 2 3 
+kidneys 1 3 
+kill 5 1 3 4 5 8 
+killed 1 3 
+killedst 1 1 
+killeth 1 5 
+kind 1 3 
+kindled 2 3 8 
+kindly 1 5 
+kindness 2 0 5 
+king 7 0 1 5 6 7 8 9 
+kingdom 4 5 6 7 8 
+kingdoms 3 0 6 8 
+kings 5 0 5 6 7 8 
+kirharaseth 1 7 
+kite 1 3 
+knees 2 7 9 
+knew 4 0 1 5 9 
+knife 1 9 
+knit 1 5 
+know 7 0 1 5 6 7 8 9 
+knowest 1 7 
+knoweth 3 3 5 8 
+knowledge 5 0 2 3 5 8 
+known 3 1 3 8 
+kohath 1 2 
+kohathites 1 2 
+laban 1 8 
+labour 2 0 8 
+lachish 2 6 7 
+lacked 1 8 
+lacking 1 3 
+lad 2 5 7 
+lael 1 2 
+laid 6 0 1 3 5 7 9 
+lamb 2 3 5 
+lambs 1 7 
+lame 1 8 
+lament 1 0 
+lamentations 1 9 
+lamp 1 5 
+lamps 3 2 6 9 
+land 9 0 1 2 3 4 6 7 8 9 
+lands 1 6 
+language 1 9 
+languisheth 1 0 
+lapwing 1 3 
+last 1 6 
+latter 2 0 8 
+lattice 1 7 
+laver 1 3 
+law 9 0 1 2 3 4 5 6 8 9 
+lay 5 3 5 7 8 9 
+lead 2 1 8 
+leap 1 3 
+learn 1 8 
+leather 1 7 
+leave 4 3 5 7 9 
+leaven 1 3 
+leavened 1 3 
+lebanon 2 7 8 
+led 2 0 1 
+left 7 1 3 5 6 7 8 9 
+legs 1 3 
+lend 1 8 
+lendeth 1 8 
+length 1 8 
+lent 1 5 
+lentiles 1 9 
+leper 1 7 
+leprosy 2 3 4 
+lest 7 0 1 2 3 5 7 8 
+let 9 0 1 3 4 5 6 7 8 9 
+levi 2 1 2 
+levite 1 8 
+levites 2 2 6 
+leviticus 1 3 
+liberally 1 8 
+libni 1 2 
+libnites 1 2 
+lie 6 0 3 4 5 7 9 
+lien 1 0 
+liest 1 8 
+lieth 3 3 4 9 
+life 4 5 7 8 9 
+lift 4 0 1 8 9 
+lifted 4 1 3 7 9 
+lifteth 1 5 
+light 5 1 2 5 7 9 
+lightly 1 5 
+lightness 1 0 
+lightning 1 9 
+like 7 0 1 3 5 7 8 9 
+likeness 2 8 9 
+likewise 3 3 5 8 
+linen 3 3 5 9 
+lion 3 0 5 9 
+lions 1 0 
+lips 2 3 5 
+little 5 3 5 7 8 9 
+live 6 1 2 5 7 8 9 
+lived 2 7 8 
+lively 1 1 
+liver 1 3 
+lives 1 1 
+liveth 4 0 5 7 8 
+living 6 0 3 4 5 8 9 
+lizard 1 3 
+lo 2 0 9 
+loan 1 5 
+lock 1 9 
+locust 1 3 
+lodge 1 0 
+loins 4 0 1 7 9 
+long 4 0 5 6 8 
+longer 1 1 
+look 4 3 4 5 7 
+looked 5 1 5 6 7 9 
+looketh 2 3 9 
+looks 1 9 
+lord 10 0 1 2 3 4 5 6 7 8 9 
+lords 5 0 3 5 8 9 
+lost 1 3 
+lot 1 8 
+lothe 1 9 
+loud 2 6 9 
+love 3 0 5 8 
+loved 4 0 5 6 8 
+lovers 1 0 
+loveth 1 8 
+low 1 5 
+lower 2 3 4 
+lubims 1 6 
+lust 1 1 
+maachah 1 6 
+maachathi 1 8 
+machir 1 8 
+made 10 0 1 2 3 4 5 6 7 8 9 
+mahalath 1 6 
+mahli 1 2 
+mahlites 1 2 
+maid 3 0 1 3 
+maidens 1 1 
+maids 1 9 
+maidservant 1 8 
+mail 1 5 
+majesty 1 9 
+make 9 0 2 3 4 5 6 7 8 9 
+maketh 3 0 3 5 
+male 3 2 3 8 
+males 3 2 3 8 
+man 10 0 1 2 3 4 5 6 7 8 9 
+manasseh 3 2 6 8 
+manassites 1 8 
+manner 8 1 2 3 4 5 6 7 8 
+mans 5 0 3 4 5 9 
+manservant 1 8 
+mantle 1 7 
+many 5 0 5 6 8 9 
+mar 1 7 
+marah 1 1 
+marched 1 1 
+mareshah 1 6 
+mark 2 5 9 
+marked 2 0 5 
+married 2 0 6 
+massah 1 8 
+master 1 7 
+matrix 1 2 
+matter 2 8 9 
+may 8 1 2 3 5 6 7 8 9 
+mayest 3 0 5 8 
+me 10 0 1 2 3 4 5 6 7 8 9 
+mean 1 8 
+meaneth 1 5 
+measure 1 9 
+meat 6 2 3 5 7 8 9 
+meddle 2 7 8 
+meet 4 5 6 7 8 
+meholathite 1 5 
+melt 1 1 
+memorial 1 3 
+men 9 0 1 2 3 5 6 7 8 9 
+menahem 1 7 
+mens 1 8 
+mention 1 0 
+merab 1 5 
+merari 1 2 
+merciful 2 0 8 
+mercy 2 1 8 
+mesha 1 7 
+messengers 3 5 7 8 
+michaiah 1 6 
+michal 1 5 
+middle 1 9 
+midian 1 1 
+midst 5 1 2 5 8 9 
+midwife 1 1 
+midwives 1 1 
+migdol 1 1 
+might 5 2 5 6 7 8 
+mightest 1 8 
+mightier 2 1 8 
+mightily 1 8 
+mighty 5 1 5 6 7 8 
+milk 1 8 
+millet 1 9 
+mind 3 0 5 9 
+mine 5 0 2 5 7 9 
+mingled 1 3 
+minister 4 2 3 5 6 
+ministered 2 2 5 
+ministry 1 2 
+minstrel 1 7 
+miriam 1 1 
+mischief 1 9 
+mishael 1 3 
+miss 1 5 
+missed 1 5 
+mitre 1 3 
+moab 3 1 7 8 
+moabites 2 7 8 
+mocked 1 7 
+mole 1 3 
+moment 1 0 
+money 3 2 7 8 
+month 7 0 1 2 6 7 8 9 
+months 2 1 7 
+moon 3 5 7 8 
+more 8 0 1 2 3 5 7 8 9 
+moreover 6 0 3 4 5 8 9 
+morning 6 1 3 5 6 7 9 
+morrow 2 3 5 
+morsel 1 5 
+morter 2 1 4 
+moses 5 1 2 3 4 8 
+most 3 2 3 9 
+mother 5 0 1 5 7 8 
+mothers 2 6 7 
+mount 8 0 2 3 5 6 7 8 9 
+mountain 4 0 1 7 8 
+mountains 3 0 8 9 
+mounted 1 9 
+mourn 1 9 
+mourning 1 9 
+mouse 1 3 
+mouth 3 0 5 9 
+move 1 3 
+moved 1 5 
+moveth 1 3 
+much 6 0 1 3 5 6 8 
+multiplied 4 0 1 8 9 
+multiply 1 1 
+multitude 4 0 6 8 9 
+murmur 1 1 
+murmured 2 1 8 
+murmurings 1 1 
+mushi 1 2 
+mushites 1 2 
+musick 1 5 
+must 2 3 8 
+my 8 0 1 3 5 6 7 8 9 
+myself 2 5 8 
+naamah 1 6 
+nadab 2 2 3 
+nahshon 1 2 
+naioth 1 5 
+naked 1 5 
+name 7 0 1 2 5 6 7 8 
+namely 3 2 3 8 
+names 2 1 2 
+naphtali 2 1 2 
+nation 4 0 6 8 9 
+nations 4 0 6 8 9 
+naught 1 7 
+nay 2 5 7 
+near 6 1 2 3 5 8 9 
+nebat 2 6 7 
+neck 1 3 
+need 1 8 
+needy 1 8 
+neighbour 2 3 8 
+neighbours 2 7 8 
+neither 8 0 2 3 5 6 7 8 9 
+nethaneel 1 2 
+never 2 3 8 
+nevertheless 4 3 6 7 9 
+new 3 1 5 7 
+next 1 2 
+nigh 5 1 2 3 5 8 
+night 4 1 3 5 8 
+nine 3 2 7 8 
+ninety 1 9 
+nitre 1 0 
+no 8 0 1 2 3 5 6 7 8 
+noble 1 0 
+noise 3 0 5 9 
+none 5 0 1 5 8 9 
+noon 1 7 
+noonday 1 0 
+noph 1 0 
+nor 7 0 3 5 6 7 8 9 
+north 3 0 2 9 
+northward 4 2 3 8 9 
+nose 1 9 
+nostrils 1 1 
+not 10 0 1 2 3 4 5 6 7 8 9 
+nothing 3 5 6 8 
+notwithstanding 2 5 8 
+nought 1 8 
+now 7 0 1 5 6 7 8 9 
+number 6 0 2 4 6 8 9 
+numbered 2 2 7 
+numbers 1 2 
+nun 1 8 
+nurse 1 1 
+nursed 1 1 
+o 7 0 1 5 6 7 8 9 
+oak 1 9 
+oath 1 3 
+obedient 1 8 
+obeyed 2 0 6 
+oblation 1 3 
+oblations 1 3 
+observe 1 8 
+observed 1 2 
+obstinate 1 8 
+occasion 1 0 
+ocran 1 2 
+odd 1 2 
+oded 1 6 
+of 10 0 1 2 3 4 5 6 7 8 9 
+off 9 1 2 3 4 5 6 7 8 9 
+offend 1 0 
+offer 5 2 3 4 5 9 
+offered 5 2 3 5 6 7 
+offereth 1 3 
+offering 5 2 3 4 5 7 
+offerings 2 3 5 
+office 4 1 2 3 6 
+officers 1 8 
+offices 1 5 
+oft 1 7 
+og 1 8 
+oh 1 5 
+oil 4 2 3 6 7 
+oiled 1 3 
+old 8 0 2 3 5 6 7 8 9 
+olive 1 8 
+on 10 0 1 2 3 4 5 6 7 8 9 
+one 10 0 1 2 3 4 5 6 7 8 9 
+ones 2 0 8 
+only 6 0 2 5 7 8 9 
+open 4 4 5 8 9 
+opened 4 1 5 7 9 
+openeth 1 2 
+or 10 0 1 2 3 4 5 6 7 8 9 
+ordained 2 0 6 
+order 2 3 6 
+ordinance 1 1 
+ornament 1 9 
+ornaments 1 0 
+ospray 1 3 
+ossifrage 1 3 
+other 9 0 1 3 4 5 6 7 8 9 
+others 1 9 
+ought 4 2 3 6 8 
+our 5 0 1 5 6 8 
+ourselves 1 8 
+out 10 0 1 2 3 4 5 6 7 8 9 
+outer 1 9 
+oven 1 3 
+over 9 0 1 2 4 5 6 7 8 9 
+oversight 1 2 
+overtake 1 1 
+overthrew 1 1 
+overthrown 2 1 6 
+overtook 1 1 
+owl 1 3 
+own 6 0 2 3 5 7 8 
+owneth 1 4 
+ox 3 3 8 9 
+oxen 1 6 
+pagiel 1 2 
+pained 1 0 
+palestina 1 1 
+palm 1 1 
+pan 3 3 5 9 
+paran 1 8 
+part 3 3 8 9 
+parted 1 7 
+parteth 1 3 
+parts 1 3 
+pass 8 0 1 3 5 6 7 8 9 
+passed 3 0 7 8 
+passest 1 8 
+passeth 1 7 
+past 2 5 8 
+pastors 1 0 
+paw 1 5 
+paws 1 3 
+pay 1 7 
+peace 8 0 1 3 5 6 7 8 9 
+pedahzur 1 2 
+pedigrees 1 2 
+pelatiah 1 9 
+pelican 1 3 
+peninnah 1 5 
+people 9 0 1 2 3 5 6 7 8 9 
+peoples 1 3 
+peradventure 1 7 
+perceive 1 7 
+perceived 1 5 
+perform 4 0 2 5 8 
+perish 3 0 8 9 
+perpetual 1 3 
+person 1 8 
+persons 1 8 
+pertain 1 3 
+pertained 1 6 
+pertaineth 1 2 
+perverseness 1 9 
+perverted 1 0 
+pestilence 1 9 
+petition 1 5 
+pharaoh 2 1 8 
+pharaohs 3 1 5 8 
+philistine 1 5 
+philistines 1 5 
+phinehas 1 5 
+piece 2 5 7 
+pieces 5 1 3 5 7 9 
+pigeon 1 3 
+pigeons 2 3 4 
+pihahiroth 1 1 
+pillar 2 0 1 
+pillars 2 2 5 
+pillow 1 5 
+pins 1 2 
+pisgah 1 8 
+pit 1 3 
+pitch 3 1 2 8 
+pitched 2 2 5 
+pithom 1 1 
+pits 1 0 
+pity 1 9 
+place 8 0 1 2 3 4 5 8 9 
+places 5 0 6 7 8 9 
+plague 2 3 4 
+plain 3 7 8 9 
+plainly 1 5 
+plaister 1 4 
+plaistered 1 4 
+plant 2 0 1 
+planted 1 0 
+plantedst 1 8 
+plate 1 3 
+played 3 0 5 7 
+playing 1 0 
+plead 1 0 
+pleasant 2 0 7 
+please 1 5 
+pleased 2 5 8 
+pleasure 1 0 
+plentiful 1 0 
+plenty 1 3 
+pluck 1 3 
+poll 1 2 
+polls 1 2 
+pollute 1 9 
+polluted 2 0 9 
+pomp 1 9 
+poor 3 0 5 8 
+porch 2 6 9 
+portion 3 3 5 7 
+portions 1 5 
+possess 2 8 9 
+possessed 1 8 
+possession 3 4 6 8 
+post 1 5 
+posts 1 8 
+pot 4 0 3 5 7 
+pots 2 1 3 
+pour 5 3 4 7 8 9 
+poured 4 3 5 6 7 
+pouring 1 9 
+pourtray 1 9 
+pourtrayed 1 9 
+power 3 1 6 8 
+praises 1 1 
+pray 3 5 7 8 
+prayed 1 5 
+praying 1 5 
+precious 2 5 7 
+prepare 2 1 9 
+prepared 1 6 
+presence 2 5 7 
+present 1 2 
+presented 1 3 
+presently 1 5 
+preserve 1 8 
+presumptuously 2 2 8 
+prevail 3 0 5 6 
+prevailed 2 5 6 
+prey 2 8 9 
+pride 1 9 
+priest 7 1 2 3 4 5 6 9 
+priests 5 0 2 3 5 6 
+prince 2 1 9 
+princes 5 0 2 5 6 9 
+principal 1 3 
+proclaim 1 0 
+procured 1 0 
+profit 1 0 
+prolong 1 8 
+prolonged 1 8 
+promised 1 8 
+pronounce 2 3 4 
+pronouncing 1 3 
+prophecy 1 6 
+prophesied 2 0 5 
+prophesy 1 9 
+prophesying 1 5 
+prophet 5 0 5 6 7 9 
+prophetess 1 1 
+prophets 3 0 5 7 
+prosper 2 0 6 
+prospered 1 6 
+proudly 1 5 
+prove 1 1 
+proved 2 1 5 
+provoke 2 8 9 
+provoked 1 5 
+provoketh 1 9 
+puah 1 1 
+publish 1 0 
+publisheth 1 0 
+pul 1 7 
+pull 1 0 
+purchased 1 1 
+pure 1 6 
+purged 1 5 
+purified 1 3 
+purifying 1 3 
+purple 1 2 
+pursue 1 1 
+pursued 3 1 5 6 
+put 10 0 1 2 3 4 5 6 7 8 9 
+puttest 1 8 
+quench 1 0 
+quick 1 3 
+quickly 2 5 7 
+quiet 1 6 
+raamses 1 1 
+rabbath 1 8 
+raiment 1 3 
+rain 4 0 1 7 9 
+raise 1 5 
+raiseth 1 5 
+ram 1 3 
+ramah 1 5 
+ramathaimzophim 1 5 
+ramoth 1 8 
+rams 4 3 6 7 9 
+ran 2 5 9 
+rang 1 5 
+ranges 1 3 
+rank 1 2 
+rate 1 1 
+raven 1 3 
+raw 2 3 5 
+razor 2 5 9 
+re 1 1 
+reacheth 1 0 
+ready 3 1 8 9 
+reapers 1 7 
+reason 1 8 
+rebelled 4 6 7 8 9 
+rebellious 2 0 9 
+rebukes 1 9 
+receive 1 9 
+received 1 0 
+reckon 1 2 
+recompense 1 9 
+reconcile 1 3 
+reconciliation 1 3 
+recover 2 6 7 
+recovered 1 7 
+red 3 1 7 8 
+reddish 2 3 4 
+redeemed 3 1 2 8 
+redemption 1 2 
+refused 1 9 
+refusedst 1 0 
+regard 1 7 
+region 1 8 
+rehearsed 1 5 
+rehoboam 1 6 
+reign 5 0 1 6 7 8 
+reigned 2 6 7 
+rejected 1 0 
+rejoice 2 5 9 
+rejoiceth 1 5 
+release 1 8 
+relied 1 6 
+remain 3 5 8 9 
+remainder 1 3 
+remained 3 1 8 9 
+remaineth 2 3 9 
+remaining 1 8 
+remember 4 0 5 8 9 
+remembered 2 5 9 
+remnant 3 3 8 9 
+remove 1 0 
+removed 4 1 5 7 9 
+rend 1 3 
+rendered 1 7 
+renewed 1 6 
+renowned 1 2 
+rent 1 7 
+repenting 1 0 
+report 2 5 8 
+reported 1 9 
+reproach 1 9 
+reproacheth 1 2 
+reprove 1 0 
+reprover 1 9 
+require 2 5 9 
+reserve 1 0 
+residue 2 0 9 
+resorted 1 6 
+respect 1 8 
+rest 5 3 6 7 8 9 
+restore 1 3 
+restored 1 7 
+restrained 1 5 
+retire 1 0 
+return 4 0 6 8 9 
+returned 7 0 1 5 6 7 8 9 
+reuben 2 1 2 
+reubenites 1 8 
+reuel 2 1 2 
+revealed 1 5 
+rewarded 1 6 
+rich 1 5 
+rider 1 1 
+rideth 1 4 
+riding 1 7 
+right 7 0 1 3 6 7 8 9 
+righteous 3 6 8 9 
+righteously 1 8 
+righteousness 3 0 8 9 
+rigour 1 1 
+rings 1 9 
+rinsed 2 3 4 
+ripped 1 7 
+rise 1 8 
+risen 2 6 9 
+risest 1 8 
+rising 3 2 3 4 
+river 4 0 1 8 9 
+rivers 3 1 3 9 
+roared 1 0 
+roast 1 5 
+robbers 1 9 
+robe 2 3 5 
+rock 1 5 
+rod 3 0 1 9 
+roebuck 1 8 
+roll 1 9 
+roof 1 9 
+root 1 0 
+rose 3 1 5 7 
+roughly 1 5 
+round 7 0 2 3 4 6 8 9 
+ruddy 1 5 
+ruler 2 3 6 
+rulers 1 8 
+rumour 1 9 
+rump 1 3 
+run 3 4 5 7 
+running 1 4 
+rushing 1 9 
+sabbath 2 7 8 
+sack 1 3 
+sackcloth 2 0 9 
+sacrifice 5 2 3 5 6 8 
+sacrificed 2 5 7 
+sacrifices 2 3 6 
+sad 1 5 
+saddle 1 4 
+saddled 1 7 
+said 9 0 1 2 3 5 6 7 8 9 
+saidst 1 0 
+saints 1 5 
+saith 5 0 5 6 7 9 
+sakes 1 8 
+salchah 1 8 
+salt 4 3 6 7 8 
+salvation 3 0 1 5 
+samaria 1 7 
+same 7 2 3 5 6 7 8 9 
+samuel 1 5 
+sanctified 2 0 3 
+sanctify 2 3 8 
+sanctuary 4 1 2 3 9 
+sand 2 0 1 
+sang 1 1 
+sank 1 1 
+sapphire 1 9 
+sat 6 0 1 4 5 7 9 
+satisfied 2 1 8 
+satisfy 1 9 
+saul 1 5 
+sauls 1 5 
+save 6 0 1 5 7 8 9 
+saved 3 0 1 7 
+saveth 1 5 
+savour 3 2 3 9 
+saw 8 0 1 3 5 6 7 8 9 
+sawest 1 5 
+say 9 0 1 2 3 4 5 7 8 9 
+sayest 1 0 
+saying 10 0 1 2 3 4 5 6 7 8 9 
+sayings 1 6 
+scab 2 3 4 
+scales 1 3 
+scall 2 3 4 
+scarlet 2 2 4 
+scatter 2 8 9 
+scattered 2 0 9 
+scorpions 1 9 
+scoured 1 3 
+scrape 1 4 
+scraped 1 4 
+scrip 1 5 
+sea 3 1 7 8 
+search 2 0 8 
+searched 1 8 
+seas 2 0 3 
+season 3 3 6 7 
+seat 2 5 9 
+sechu 1 5 
+second 6 0 1 2 3 7 9 
+secret 3 0 5 9 
+secretly 1 5 
+see 9 0 1 2 3 4 5 7 8 9 
+seed 5 0 3 4 5 8 
+seeing 3 2 3 5 
+seek 5 0 6 7 8 9 
+seeketh 1 5 
+seem 1 8 
+seemeth 2 4 5 
+seen 5 0 1 3 8 9 
+seer 1 6 
+seest 3 0 8 9 
+seeth 3 3 7 9 
+seething 2 0 5 
+seir 1 8 
+sell 2 7 8 
+seller 1 9 
+send 5 0 5 7 8 9 
+sendest 2 7 8 
+sent 6 1 5 6 7 8 9 
+sentence 1 0 
+sentest 1 1 
+separation 1 3 
+servant 6 0 1 5 6 7 8 
+servants 4 1 5 6 7 
+serve 3 1 2 8 
+serveth 1 2 
+service 3 1 2 6 
+serving 2 1 8 
+set 8 0 1 2 5 6 7 8 9 
+setteth 1 2 
+seven 10 0 1 2 3 4 5 6 7 8 9 
+seventeen 1 6 
+seventh 4 3 4 7 8 
+seventy 2 1 9 
+several 2 6 7 
+severed 1 8 
+shaaraim 1 5 
+shadow 1 0 
+shall 10 0 1 2 3 4 5 6 7 8 9 
+shallum 1 7 
+shalt 8 0 1 2 3 5 7 8 9 
+shamariah 1 6 
+shame 2 0 9 
+shaphan 1 9 
+shaphat 1 7 
+sharp 1 9 
+she 7 0 1 2 3 5 7 9 
+shear 1 8 
+sheath 1 5 
+shedeur 1 2 
+sheep 4 3 5 6 8 
+sheepmaster 1 7 
+shekel 2 2 3 
+shekels 4 2 3 7 9 
+shelomith 1 6 
+shelumiel 1 2 
+shemaiah 1 6 
+shenir 1 8 
+shepherds 2 1 5 
+shew 3 1 5 8 
+shewbread 2 2 6 
+shewed 4 1 3 5 8 
+shewing 1 8 
+shield 1 5 
+shields 1 6 
+shiloh 1 5 
+shimei 1 2 
+shimites 1 2 
+shiphrah 1 1 
+shishak 1 6 
+shoco 1 6 
+shone 1 7 
+shoot 1 5 
+shore 1 1 
+shortly 1 9 
+shot 1 5 
+should 7 1 3 5 6 7 8 9 
+shoulder 1 3 
+shouldest 3 5 7 8 
+shout 2 5 6 
+shouted 3 3 5 6 
+shouting 1 6 
+shovels 1 2 
+showers 1 0 
+shunammite 1 7 
+shunem 1 7 
+shur 1 1 
+shut 7 1 3 4 5 7 8 9 
+sick 2 5 7 
+side 8 1 2 3 5 6 7 8 9 
+sides 1 9 
+sidonians 1 8 
+siege 1 9 
+sigh 1 9 
+sight 9 0 1 2 3 4 5 7 8 9 
+sign 3 5 8 9 
+signs 1 8 
+sihon 1 8 
+sihor 1 0 
+silent 1 5 
+silver 4 3 5 7 9 
+simeon 3 1 2 6 
+similitude 1 8 
+sin 8 1 2 3 4 5 7 8 9 
+sinai 3 1 2 3 
+since 2 0 8 
+sing 1 1 
+singing 1 5 
+sinned 4 0 3 5 8 
+sinneth 1 2 
+sinning 1 3 
+sins 1 7 
+sion 1 8 
+sirion 1 8 
+sister 2 0 1 
+sit 2 5 7 
+sittest 1 8 
+sitteth 1 4 
+situation 1 7 
+six 6 1 2 3 7 8 9 
+sixteen 2 6 7 
+sixth 2 1 9 
+skin 2 3 4 
+skins 1 2 
+skirts 2 0 9 
+slack 1 7 
+slain 6 4 5 6 7 8 9 
+slang 1 5 
+slaughter 3 5 6 9 
+slave 1 0 
+slay 4 1 3 5 9 
+slayer 1 8 
+slaying 1 9 
+sleep 1 5 
+slept 2 6 7 
+slew 6 1 3 5 6 7 9 
+slime 1 1 
+sling 1 5 
+slingers 1 7 
+slipped 1 5 
+small 3 5 6 8 
+smell 1 8 
+smite 3 5 7 9 
+smitest 1 1 
+smiteth 1 9 
+smiting 2 1 7 
+smitten 4 0 5 7 8 
+smooth 1 5 
+smote 5 2 5 6 7 8 
+snail 1 3 
+snare 1 5 
+snuffdishes 1 2 
+snuffeth 1 0 
+so 9 0 1 2 3 5 6 7 8 9 
+soap 1 0 
+sockets 1 2 
+sodden 2 3 5 
+soever 1 4 
+sojourneth 1 2 
+sold 2 8 9 
+sole 1 9 
+solomon 1 6 
+some 4 3 6 7 9 
+somewhat 1 3 
+son 9 0 1 2 3 5 6 7 8 9 
+song 1 1 
+sons 8 0 2 3 5 6 7 8 9 
+soon 2 1 8 
+sore 4 1 5 7 8 
+sorrow 1 1 
+sorrowful 1 5 
+sought 5 1 3 5 6 7 
+soul 8 0 2 3 5 6 7 8 9 
+souls 3 0 1 9 
+sound 2 0 9 
+sounded 2 5 6 
+sounding 2 6 9 
+south 2 2 8 
+southward 2 2 8 
+sow 1 0 
+sowing 1 3 
+sown 2 0 3 
+space 1 8 
+spake 8 1 2 3 4 5 7 8 9 
+spare 1 9 
+sparkled 1 9 
+speak 9 0 1 2 3 4 5 6 8 9 
+speakest 1 9 
+speaketh 1 9 
+speaking 2 5 8 
+spear 1 5 
+spears 1 6 
+specially 1 8 
+speech 1 9 
+speed 1 6 
+spied 1 1 
+spirit 5 5 6 7 8 9 
+spit 1 4 
+spoil 5 1 6 7 8 9 
+spoiled 3 0 5 6 
+spoiler 1 0 
+spoken 7 0 2 3 5 7 8 9 
+spoons 1 2 
+spot 2 3 4 
+spread 4 2 3 4 9 
+spreadeth 1 3 
+spring 1 7 
+springs 1 8 
+sprinkle 2 3 4 
+sprinkled 1 3 
+sprinkleth 1 3 
+staff 2 5 9 
+stamp 1 9 
+stand 6 1 2 5 7 8 9 
+standard 2 0 2 
+standards 1 2 
+standeth 1 8 
+standing 1 5 
+stars 1 8 
+statute 2 1 3 
+statutes 4 1 3 8 9 
+staves 2 2 5 
+stay 2 0 3 
+stayed 2 5 7 
+stead 4 3 6 7 8 
+steal 1 8 
+step 1 5 
+stiffhearted 1 9 
+still 2 1 7 
+stock 1 0 
+stocks 1 0 
+stone 6 0 1 5 7 8 9 
+stoned 1 6 
+stones 5 0 4 5 6 7 
+stood 7 1 3 5 6 7 8 9 
+stoodest 1 8 
+stool 1 7 
+stools 1 1 
+stop 1 7 
+stopped 2 4 7 
+store 1 6 
+stork 1 3 
+story 1 6 
+straight 1 9 
+strakes 1 4 
+strange 5 0 2 3 6 9 
+stranger 2 2 8 
+strangers 3 0 6 9 
+streets 1 9 
+strength 3 1 5 6 
+strengthen 2 8 9 
+strengthened 1 6 
+stretch 3 0 1 9 
+stretched 3 1 8 9 
+stretchedst 1 1 
+strife 1 8 
+stripling 1 5 
+stripped 1 5 
+strong 7 1 3 5 6 7 8 9 
+strove 1 1 
+struck 2 5 6 
+stubble 1 1 
+stumbled 1 5 
+stumblingblock 1 9 
+suburbs 1 6 
+succeeded 1 8 
+such 5 0 3 5 6 8 
+suck 1 5 
+suddenly 1 0 
+suffer 1 3 
+suffice 1 8 
+sufficient 1 8 
+sukkiims 1 6 
+sum 1 2 
+sun 5 0 2 7 8 9 
+sunk 1 5 
+sunrising 1 8 
+supplications 1 0 
+sure 1 5 
+surely 5 0 1 7 8 9 
+swallowed 1 1 
+swan 1 3 
+sware 3 5 6 8 
+swear 4 0 3 5 8 
+sweareth 1 3 
+swearing 1 3 
+sweet 5 1 2 3 6 9 
+sweetness 1 9 
+swift 1 0 
+swifter 1 0 
+swine 1 3 
+sword 4 0 1 5 9 
+swords 1 7 
+sworn 2 3 5 
+tabernacle 4 2 3 4 5 
+table 3 2 6 7 
+tables 1 8 
+tabrets 1 5 
+tahapanes 1 0 
+take 9 0 1 2 3 4 5 7 8 9 
+taken 7 1 2 3 4 6 7 8 
+taketh 1 8 
+tale 1 5 
+talents 1 7 
+talk 3 5 8 9 
+talked 2 7 8 
+tall 1 8 
+taller 1 8 
+tammuz 1 9 
+tare 1 7 
+targets 1 6 
+tarried 1 7 
+tarry 2 5 7 
+taskmasters 1 1 
+taught 2 0 8 
+taunt 1 9 
+teach 3 3 4 8 
+teaching 1 6 
+teeth 1 5 
+tekoa 1 6 
+telabib 1 9 
+tell 5 1 4 5 7 9 
+temple 2 5 9 
+tempt 1 8 
+temptations 1 8 
+tempted 1 8 
+ten 5 1 5 6 7 8 
+tenderhearted 1 6 
+tens 1 8 
+tent 2 2 5 
+tenth 1 3 
+tents 6 0 2 5 6 7 8 
+terrible 2 8 9 
+terrors 2 0 8 
+testimonies 1 8 
+testimony 1 2 
+than 8 0 1 2 3 4 5 8 9 
+thanksgiving 1 3 
+that 10 0 1 2 3 4 5 6 7 8 9 
+the 10 0 1 2 3 4 5 6 7 8 9 
+thee 8 0 1 3 5 6 7 8 9 
+theeward 1 5 
+their 9 0 1 2 3 5 6 7 8 9 
+theirs 1 9 
+them 10 0 1 2 3 4 5 6 7 8 9 
+themselves 6 0 4 5 6 7 9 
+then 10 0 1 2 3 4 5 6 7 8 9 
+thence 3 5 7 8 
+there 10 0 1 2 3 4 5 6 7 8 9 
+thereby 1 3 
+therefore 9 0 1 2 3 5 6 7 8 9 
+therefrom 1 7 
+therein 6 1 2 3 7 8 9 
+thereof 9 0 2 3 4 5 6 7 8 9 
+thereon 2 2 3 
+thereout 1 3 
+thereto 2 2 3 
+thereunto 1 8 
+therewith 3 3 5 9 
+these 9 0 1 2 3 5 6 7 8 9 
+they 10 0 1 2 3 4 5 6 7 8 9 
+thick 2 8 9 
+thicket 1 0 
+thief 1 0 
+thin 1 3 
+thine 7 0 1 3 5 7 8 9 
+thing 10 0 1 2 3 4 5 6 7 8 9 
+things 8 0 2 3 4 5 6 8 9 
+think 1 6 
+third 7 2 3 5 6 7 8 9 
+thirst 1 0 
+thirteen 1 2 
+thirteenth 1 0 
+thirtieth 2 7 9 
+thirty 4 2 3 7 8 
+this 10 0 1 2 3 4 5 6 7 8 9 
+thistle 1 7 
+thither 4 5 7 8 9 
+thorns 2 0 9 
+those 9 0 1 2 3 4 5 6 7 9 
+thou 9 0 1 2 3 5 6 7 8 9 
+though 4 0 3 5 9 
+thought 3 5 6 8 
+thoughts 1 0 
+thousand 5 2 5 6 7 8 
+thousands 3 2 5 8 
+three 8 1 2 3 5 6 7 8 9 
+threescore 5 1 2 3 6 8 
+threshingfloor 1 2 
+threshold 1 9 
+throat 1 0 
+throne 4 0 5 7 9 
+through 8 0 1 2 3 5 7 8 9 
+throughout 3 2 3 6 
+throw 1 0 
+thrown 1 1 
+thrust 1 8 
+thumb 1 3 
+thumbs 1 3 
+thummim 1 3 
+thunder 1 5 
+thus 7 0 1 2 5 6 7 9 
+thy 8 0 1 3 5 6 7 8 9 
+thyself 5 0 3 5 8 9 
+tile 1 9 
+till 3 1 7 9 
+timber 1 4 
+timbrel 1 1 
+timbrels 1 1 
+time 6 0 5 6 7 8 9 
+times 5 3 4 5 6 8 
+tingle 1 5 
+tip 1 3 
+tiphsah 1 7 
+tirzah 1 7 
+tishbite 1 7 
+tithe 1 8 
+to 10 0 1 2 3 4 5 6 7 8 9 
+toe 1 3 
+toes 1 3 
+together 7 0 1 2 3 6 7 8 
+tohu 1 5 
+told 3 1 5 7 
+tongs 1 2 
+tongue 1 9 
+too 2 7 8 
+took 8 1 2 3 5 6 7 8 9 
+top 2 7 8 
+tophel 1 8 
+tops 1 9 
+torn 2 3 9 
+tortoise 1 3 
+touch 2 2 3 
+touched 2 0 9 
+toucheth 2 3 4 
+touching 3 0 3 9 
+toward 7 0 2 3 5 7 8 9 
+towers 1 6 
+towns 2 6 8 
+transgress 2 0 5 
+transgressed 3 0 6 9 
+traversing 1 0 
+treacherous 1 0 
+treacherously 1 0 
+treasure 1 1 
+treasures 2 6 7 
+tree 4 0 1 7 9 
+trees 3 1 7 8 
+tremble 1 8 
+trembling 1 1 
+trespass 1 3 
+trespassed 1 3 
+trespassing 1 3 
+tribe 2 2 8 
+tribes 4 2 5 6 8 
+tribulation 1 8 
+tribute 1 6 
+trimmest 1 0 
+triumphed 1 1 
+trodden 1 8 
+trode 1 7 
+trouble 3 0 6 9 
+troubled 2 1 9 
+troughs 1 1 
+true 1 6 
+truly 2 0 5 
+trumpet 2 0 9 
+trumpets 1 6 
+truth 1 0 
+turn 7 0 1 3 6 7 8 9 
+turned 8 0 1 3 5 6 7 8 9 
+turtledove 1 3 
+turtledoves 2 3 4 
+turtles 1 3 
+twain 1 5 
+twelve 5 1 2 6 7 8 
+twenty 4 2 6 7 9 
+twice 2 1 5 
+two 10 0 1 2 3 4 5 6 7 8 9 
+unawares 1 8 
+uncircumcised 1 5 
+uncle 1 3 
+unclean 3 3 4 8 
+uncleanness 2 3 4 
+uncover 1 3 
+uncovered 1 9 
+under 7 0 2 4 6 7 8 9 
+understand 1 9 
+understanding 2 0 8 
+understood 1 5 
+unholy 1 3 
+unleavened 1 3 
+unshod 1 0 
+until 5 2 3 4 5 8 
+unto 10 0 1 2 3 4 5 6 7 8 9 
+unwalled 1 8 
+up 10 0 1 2 3 4 5 6 7 8 9 
+upon 10 0 1 2 3 4 5 6 7 8 9 
+upper 1 7 
+upright 1 1 
+upward 3 2 7 9 
+urged 1 7 
+uriel 1 6 
+urim 1 3 
+us 7 0 1 5 6 7 8 9 
+use 1 3 
+used 2 0 3 
+utter 2 0 3 
+utterly 3 2 8 9 
+uzziah 1 7 
+uzziel 2 2 3 
+uzzielites 1 2 
+vail 2 2 3 
+vain 4 0 6 8 9 
+vale 1 8 
+valiant 2 5 6 
+valley 5 0 5 6 7 8 
+valleys 1 9 
+valour 1 6 
+vanity 1 0 
+verily 1 7 
+very 6 0 1 5 6 7 9 
+vessel 4 3 4 7 9 
+vessels 3 2 3 7 
+vex 1 6 
+vexations 1 6 
+victual 1 6 
+view 1 7 
+vile 1 5 
+vine 1 0 
+vineyards 1 8 
+violence 2 3 9 
+violently 1 3 
+vision 2 5 9 
+visions 1 9 
+visit 1 0 
+visited 1 5 
+visiting 1 8 
+voice 7 0 1 3 5 6 8 9 
+voluntary 1 3 
+vow 2 3 5 
+vowed 1 5 
+vulture 1 3 
+wafer 1 3 
+wafers 1 3 
+wages 1 1 
+wailing 1 9 
+wait 2 2 6 
+walk 4 0 1 5 8 
+walked 4 0 1 6 9 
+walkest 1 8 
+walking 1 8 
+wall 5 1 4 5 7 9 
+walled 1 8 
+walls 4 0 4 6 8 
+wanderest 1 0 
+want 1 9 
+wanteth 1 8 
+war 6 0 1 2 5 6 8 
+warn 1 9 
+warned 1 9 
+warning 1 9 
+warred 1 7 
+warriors 1 6 
+wars 1 6 
+was 10 0 1 2 3 4 5 6 7 8 9 
+wash 4 0 1 3 4 
+washed 2 3 4 
+wast 2 0 8 
+waste 2 0 9 
+wasted 1 8 
+watch 2 1 5 
+watchers 1 0 
+watcheth 1 9 
+watchman 1 9 
+water 7 0 1 3 4 7 8 9 
+watered 1 1 
+waters 6 0 1 3 7 8 9 
+wave 1 3 
+waved 1 3 
+wax 1 5 
+waxed 3 1 5 6 
+way 7 0 1 5 6 7 8 9 
+ways 5 0 5 6 8 9 
+we 6 0 1 6 7 8 9 
+weak 2 6 9 
+wealth 2 5 7 
+weaned 1 5 
+weapon 1 9 
+weapons 1 8 
+wear 1 5 
+weary 1 0 
+weasel 1 3 
+weeks 1 3 
+weepest 1 5 
+weeping 2 0 9 
+weighed 1 5 
+weight 1 9 
+well 6 0 1 5 6 7 8 
+wells 3 1 7 8 
+went 8 0 1 3 5 6 7 8 9 
+wentest 1 0 
+wept 3 1 5 8 
+were 9 1 2 3 4 5 6 7 8 9 
+west 1 2 
+westward 2 2 8 
+what 7 0 1 4 5 7 8 9 
+whatsoever 4 0 3 5 8 
+wheat 1 9 
+wheel 1 9 
+wheels 2 1 9 
+when 10 0 1 2 3 4 5 6 7 8 9 
+where 7 0 1 3 5 7 8 9 
+whereas 1 0 
+whereby 1 0 
+wherefore 6 0 1 3 5 7 9 
+wherein 2 1 3 
+whereinto 1 3 
+whereof 1 3 
+whereon 2 3 4 
+wheresoever 1 3 
+whereunto 2 8 9 
+whereupon 3 3 6 9 
+wherewith 2 2 8 
+whether 8 1 2 3 4 6 7 8 9 
+which 10 0 1 2 3 4 5 6 7 8 9 
+while 6 0 3 4 5 6 9 
+whirlwind 3 0 7 9 
+whit 1 5 
+white 1 3 
+whither 3 2 8 9 
+whithersoever 2 5 9 
+who 7 0 1 3 5 7 8 9 
+whole 6 0 1 2 3 8 9 
+wholly 4 0 2 3 8 
+whom 9 0 1 2 3 4 5 7 8 9 
+whomsoever 1 4 
+whoredom 1 0 
+whoredoms 1 0 
+whores 1 0 
+whoring 1 9 
+whorish 1 9 
+whose 2 5 9 
+whoso 1 3 
+whosoever 3 3 4 6 
+why 5 0 1 5 7 8 
+wicked 4 0 5 8 9 
+wickedness 2 0 9 
+wide 1 8 
+widow 1 8 
+widows 1 0 
+wife 6 0 1 5 6 7 8 
+wild 3 0 5 7 
+wilderness 7 0 1 2 3 7 8 9 
+will 8 0 1 3 5 6 7 8 9 
+wilt 5 0 1 5 7 9 
+wind 4 0 1 7 9 
+window 1 5 
+winds 1 9 
+wine 3 3 5 6 
+winepress 1 8 
+winged 1 8 
+wings 2 3 9 
+wisdom 1 8 
+wise 2 3 8 
+wisely 3 1 5 6 
+wist 1 3 
+wit 1 1 
+with 10 0 1 2 3 4 5 6 7 8 9 
+withal 2 2 3 
+withhold 1 0 
+withholden 1 0 
+within 6 0 2 3 4 8 9 
+without 7 0 2 3 4 5 6 9 
+withstand 1 6 
+witness 2 3 8 
+wives 4 5 6 7 8 
+woe 2 0 9 
+woman 7 1 3 4 5 6 7 8 
+womb 2 0 5 
+women 5 1 5 7 8 9 
+wonder 1 0 
+wonders 2 1 8 
+wood 4 3 4 7 8 
+wool 1 7 
+word 9 0 1 2 3 5 6 7 8 9 
+words 6 0 5 6 7 8 9 
+work 6 1 2 3 6 8 9 
+works 4 0 5 8 9 
+world 1 5 
+worse 1 7 
+worship 2 5 8 
+worshipped 3 0 5 9 
+worst 1 9 
+worth 1 8 
+worthy 1 5 
+would 6 1 5 6 7 8 9 
+wouldest 1 7 
+wounded 1 5 
+wrapped 1 7 
+wrath 5 1 2 3 6 9 
+wring 1 3 
+write 1 8 
+writers 1 9 
+written 3 6 7 9 
+wrong 1 1 
+wrote 1 8 
+wroth 2 5 8 
+wrought 2 5 7 
+wrung 1 3 
+ye 10 0 1 2 3 4 5 6 7 8 9 
+yea 3 0 7 9 
+year 8 0 2 3 5 6 7 8 9 
+yearly 1 5 
+years 5 2 6 7 8 9 
+yelled 1 0 
+yellow 1 3 
+yet 7 0 3 5 6 7 8 9 
+yoke 1 0 
+you 10 0 1 2 3 4 5 6 7 8 9 
+young 8 0 2 3 4 5 6 7 9 
+your 10 0 1 2 3 4 5 6 7 8 9 
+yourselves 4 0 3 5 8 
+youth 3 0 5 9 
+zachariah 1 7 
+zaham 1 6 
+zamzummims 1 8 
+zeal 1 9 
+zebulun 2 1 2 
+zedekiah 1 0 
+zemaraim 1 6 
+zephathah 1 6 
+zerah 1 6 
+zered 1 8 
+zion 1 0 
+ziph 1 6 
+ziza 1 6 
+zorah 1 6 
+zuar 1 2 
+zuph 1 5 
+zuriel 1 2 
