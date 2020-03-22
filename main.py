@@ -6,7 +6,6 @@ from Petrenko05 import task5_main
 from matrix02 import matrix_main
 from util import constants
 
-
 if __name__ == "__main__":
     n = input("For testnet press enter, otherwise - write something...\n")
     paths_keys = [
@@ -57,4 +56,3 @@ if __name__ == "__main__":
 
         else:
             print("No such task.")
-

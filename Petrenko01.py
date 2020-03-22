@@ -70,7 +70,7 @@ def get_collection_size(files_list):
 
 
 def write_dictionary(dictionary, dictionary_path):
-    print("Writing ", dictionary[:10], " to ", dictionary_path)
+    print("Writing ", dictionary[:3], " to ", dictionary_path)
     proceed = input("Proceed to writing?")
     if len(proceed):
         with open(dictionary_path, "w+") as f:
