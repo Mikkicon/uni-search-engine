@@ -62,19 +62,6 @@ def docIDs_intervals(in_docIDs):
     return intervals
 
 
-"""
-                term_id = int(term_str[0].split()[0])
-                file_id = int(term_str[0].split()[1])
-                a = (term_id).to_bytes(4, "little")
-                b = (file_id).to_bytes(4, "little")
-                # print("B", b)
-                c = (term_str[1]["frequency"]).to_bytes(4, "little")
-                # print("C", b)
-                # print("sum", a + b + c)
-                file.write(a + b + c)
-"""
-
-
 def compress(
     source_path, destination_path, compress_fn=lambda x: [int(y) for y in x.split()]
 ):
@@ -114,13 +101,29 @@ def decompress(source_path, destination_path):
             num = int.from_bytes(byte, "little")
         bytestream.append(num)
         number = VB_decode(bytestream)
-        # print("Decoded:", number)
+        print("Decoded:", number)
         destination_file.write(str(number) + " ")
         bytestream = []
         byte = source_file.read(1)
 
     source_file.close()
     destination_file.close()
+
+
+def intervals_docIDs(in_intervals):
+    docIDs = []
+    offset = 0
+    intervals = list(in_intervals)
+    if type(intervals[0]) == str:
+        intervals = list(map(int, intervals))
+    head = intervals[0]
+    if head == 1:
+        docIDs.append(0)
+    for interval_range in intervals:
+        docID = offset + interval_range
+        docIDs.append(docID)
+        offset = docID
+    return docIDs
 
 
 def compress_preproc(line):
@@ -140,9 +143,13 @@ if __name__ == "__main__":
     bytestream = VB_encode(interval)
     print("Encoded: ", bytestream)
     print("Decoded: ", VB_decode(bytestream))
-    docIDs = "0 1 2 3 4 6 7 9 10 11 12 14 15 16 17 18 19 22 23 25 26 27 28 29 30 32 34 35 36 37 38 40 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 61 62 64 65 66 67 68 69 72 73 74 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 97 98 100 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 118 120 121 122 123 124 125 126 127 128 129 130 132 133 134 135 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 153 154 156 157 158 159 160 161 162 163 164 165 166 167 169 171 173 5000 6999 214577"
+    docIDs = "0 1 2 3 4 6 9 10 11 12 23 25 26 27 28 29 32 34 35 36 37 38"
+    intervals = "1 1 1 1 2 3 1 1 1 11 2 1 1 1 1 3 2 1 1 1 1"
     docIDs = docIDs.split()
     i = docIDs_intervals(docIDs)
+    print("I:", i)
+    d = intervals_docIDs(i)
+    print("D:", d)
     compressed_i = []
     decompressed_i = []
     for x in i:
@@ -154,5 +161,6 @@ if __name__ == "__main__":
     print("Intervals: ", i)
     print("Compressed: ", compressed_i)
     print("Decompressed: ", decompressed_i)
-    compress(source_path, destination_path, compress_preproc)
-    decompress(destination_path, decompressed_path)
+
+    # compress(source_path, destination_path, compress_preproc)
+    # decompress(destination_path, decompressed_path)
