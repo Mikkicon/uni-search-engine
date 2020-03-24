@@ -176,9 +176,19 @@ class BSBI:
                     del in_buffer[key]
                 empty_blocks = []
             else:
-                out_buffer.sort(key=lambda x: int(x[1]))
-                output = [" ".join(list(map(str, x))) + "\n" for x in out_buffer]
-                dest_file.writelines(output)
+                # [(termID, docID, freq), ...]
+                frequency_sum = sum([int(x[2]) for x in out_buffer])
+                docIDs = [int(x[1]) for x in out_buffer]
+                docIDs.sort()
+                output = (
+                    str(current_termID)
+                    + " "
+                    + str(frequency_sum)
+                    + " "
+                    + " ".join([str(x) for x in docIDs])
+                    + "\n"
+                )
+                dest_file.write(output)
                 out_buffer = []
                 head = min(in_buffer.values(), key=lambda x: x["tuple"][0])["tuple"]
                 current_termID = head[0]
