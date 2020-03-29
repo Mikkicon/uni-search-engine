@@ -7,7 +7,8 @@ from matrix02 import matrix_main
 from util import constants
 
 if __name__ == "__main__":
-    n = input("For testnet press enter, otherwise - write something...\n")
+    # n = input("For testnet press enter, otherwise - write something...\n")
+    n = ''
     paths_keys = [
         "dictionary_path",
         "double_dictionary_path",
@@ -21,10 +22,10 @@ if __name__ == "__main__":
     paths = {}
     if len(n):
         for path in paths_keys:
-            paths[path] = "results/" + constants[path]
+            paths[path] = constants[path]
     else:
         for path in paths_keys:
-            paths[path] = "results/" + constants["test_" + path]
+            paths[path] = constants["test_" + path]
     try:
         task_num = int(input("Input the task number..."))
     except Exception as e:

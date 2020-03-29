@@ -88,7 +88,7 @@ def compress(
     destination_file.close()
 
 
-def decompress(source_path, destination_path):
+def decompress(source_path, destination_path, decompress_fn=lambda x: x):
     source_file = open(source_path, "rb")
     destination_file = open(destination_path, "w")
     byte = source_file.read(1)
@@ -101,8 +101,9 @@ def decompress(source_path, destination_path):
             num = int.from_bytes(byte, "little")
         bytestream.append(num)
         number = VB_decode(bytestream)
-        print("Decoded:", number)
-        destination_file.write(str(number) + " ")
+        result = decompress_fn(number)
+        print("Decoded:", result)
+        destination_file.write(str(result) + " ")
         bytestream = []
         byte = source_file.read(1)
 
@@ -134,33 +135,49 @@ def compress_preproc(line):
     return result
 
 
+def compress_text_preproc(line):
+    result = [ord(c) for c in line]
+    return result
+
+
+def decompress_ascii_string(ascii_num):
+    return chr(ascii_num)
+
+
 if __name__ == "__main__":
     # interval = int(input("Input interval...\n"))
-    interval = 214577
+    # interval = 214577
     # encode(interval)
-    true_vb = "000011010000110010110001"
-    print_bytes(true_vb)
-    bytestream = VB_encode(interval)
-    print("Encoded: ", bytestream)
-    print("Decoded: ", VB_decode(bytestream))
-    docIDs = "0 1 2 3 4 6 9 10 11 12 23 25 26 27 28 29 32 34 35 36 37 38"
-    intervals = "1 1 1 1 2 3 1 1 1 11 2 1 1 1 1 3 2 1 1 1 1"
-    docIDs = docIDs.split()
-    i = docIDs_intervals(docIDs)
-    print("I:", i)
-    d = intervals_docIDs(i)
-    print("D:", d)
-    compressed_i = []
-    decompressed_i = []
-    for x in i:
-        compressed_i.extend(VB_encode(x))
-    decompressed_i.append(VB_decode(compressed_i))
-    source_path = "temp.txt"
+    # true_vb = "000011010000110010110001"
+    # print_bytes(true_vb)
+    # bytestream = VB_encode(interval)
+    # print("Encoded: ", bytestream)
+    # print("Decoded: ", VB_decode(bytestream))
+    # docIDs = "0 1 2 3 4 6 9 10 11 12 23 25 26 27 28 29 32 34 35 36 37 38"
+    # intervals = "1 1 1 1 2 3 1 1 1 11 2 1 1 1 1 3 2 1 1 1 1"
+    # docIDs = docIDs.split()
+    # i = docIDs_intervals(docIDs)
+    # print("I:", i)
+    # d = intervals_docIDs(i)
+    # print("D:", d)
+    # compressed_i = []
+    # decompressed_i = []
+    # for x in i:
+    #     compressed_i.extend(VB_encode(x))
+    # decompressed_i.append(VB_decode(compressed_i))
+
+    source_path = "dictionary.txt"
     destination_path = "compressed.dat"
     decompressed_path = "decompressed.txt"
-    print("Intervals: ", i)
-    print("Compressed: ", compressed_i)
-    print("Decompressed: ", decompressed_i)
 
-    # compress(source_path, destination_path, compress_preproc)
-    # decompress(destination_path, decompressed_path)
+    source_path1 = "index.txt"
+    destination_path1 = "compressed1.dat"
+    decompressed_path1 = "decompressed1.txt"
+    # print("Intervals: ", i)
+    # print("Compressed: ", compressed_i)
+    # print("Decompressed: ", decompressed_i)
+
+    compress(source_path, destination_path, compress_text_preproc)
+    decompress(destination_path, decompressed_path, decompress_ascii_string)
+    compress(source_path1, destination_path1, compress_text_preproc)
+    decompress(destination_path1, decompressed_path1, decompress_ascii_string)

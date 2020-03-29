@@ -15,7 +15,7 @@ class DoubleIndex:
 
     def main(self):
         all_words = self.parse_files_to_dict_return_word_count()
-        Petrenko01.write_dictionary(self.dictionary, dictionary_path)
+        Petrenko01.write_dictionary(self.dictionary, self.dictionary_path)
         col_size = Petrenko01.get_collection_size(self.files_list)
 
         print("Collection size: ", col_size)
@@ -174,10 +174,26 @@ class CoordIndex:
                 keys,
                 "\nAnd the text around the first occurence is:",
             )
-            phrase_idx = plausable_files[keys[0]]["indices"][0]
-            with open(self.files_list[int(keys[0])]) as target:
-                result = target.read()
-                print(result[phrase_idx - 50 : phrase_idx + 50])
+            for file_key in keys:
+                file_key = int(file_key)
+                with open(self.files_list[file_key]) as target:
+                    result = target.read()
+                    try:
+                        for index_idx in range(
+                            len(plausable_files[keys[file_key]]["indices"])
+                        ):
+                            phrase_idx = plausable_files[keys[file_key]]["indices"][
+                                index_idx
+                            ]
+                            print(
+                                "FILE " + self.files_list[file_key],
+                                "INDEX: " + str(phrase_idx),
+                                "\n",
+                                result[phrase_idx - 50 : phrase_idx + 50],
+                                "\n",
+                            )
+                    except IndexError as er:
+                        pass
         else:
             print("'", phrase, "' were not found.")
 
@@ -199,6 +215,9 @@ class CoordIndex:
             self.filter_following_tokens(
                 plausable_files, occurrences[token]["files"], accum_len
             )
+            # self.filter_close_tokens(
+            #     plausable_files, occurrences[token]["files"], accum_len, 100
+            # )
             accum_len += len(token) + 1
         # print(plausable_files)
         return plausable_files
@@ -222,6 +241,44 @@ class CoordIndex:
                     del plausable_files[file]
             else:
                 plausable_files.pop(file)
+
+    def filter_close_tokens(self, plausable_files, current_files, word_len, radius):
+        temp_dict = dict(plausable_files)
+        for file in temp_dict:
+            if file in current_files:
+                self.find_proximity_words(
+                    plausable_files[file]["indices"],
+                    current_files[file]["indices"],
+                    word_len,
+                    radius,
+                )
+                if not len(plausable_files[file]["indices"]):
+                    del plausable_files[file]
+            else:
+                plausable_files.pop(file)
+
+    # In the
+    # [6, 23, 543,43],
+    # [1, 26, 765] -> 23,26 23+2 = 25 26
+
+    def find_proximity_words(self, indices_list1, indices_list2, word_len, radius):
+        i = j = 0
+        # Copy data to temp arrays L[] and R[]
+        while i < len(indices_list1) and j < len(indices_list2):
+            adj_word_dist = indices_list2[j] - (indices_list1[i] + word_len)
+            # ["In the", "In, the"]
+            # ____/\________/_\___
+            if adj_word_dist <= radius and adj_word_dist > 0:
+                i += 1
+                j += 1
+            elif adj_word_dist <= 0:
+                indices_list2.pop(j)
+            elif adj_word_dist > 2:
+                indices_list1.pop(i)
+
+        del indices_list1[i:]
+        del indices_list2[j:]
+        print("merged indices")
 
     # In the
     # [6, 23, 543,43],
@@ -250,12 +307,15 @@ class CoordIndex:
 def task3_main(
     double_dictionary_path, dir_path, coordinate_index_path, double_index_path
 ):
+    print(double_dictionary_path, dir_path, coordinate_index_path, double_index_path)
     di = DoubleIndex(double_dictionary_path, dir_path, double_index_path)
-    di.main()
+    rebuild_d_index = input("Rebuild double index?")
+    if len(rebuild_d_index) > 0:
+        di.main()
     task3 = CoordIndex(dir_path, coordinate_index_path, constants)
     rebuild_index = input(constants["input_rebuild_index_text"])
     if len(rebuild_index) > 0:
         task3.invert_index()
     phrase = input("Please input phrase to search in Google...\n")
     task3.phrasal_search(phrase)
-
+    # task3.dist_phrasal_search(phrase)

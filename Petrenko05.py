@@ -237,7 +237,7 @@ class BSBI:
         self.merge_blocks()
 
 
-def task5_main():
+def task5_main(dictionary_path, dir_path):
     # 1. Формуємо по документам пари “termID-docID”
     #    [ 12 –байтів (4+4+4) записи (термін, документ, частота) ]
     #    накопичуємо їх в пам’яті
